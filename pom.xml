@@ -21,7 +21,7 @@
         <reflections.version>0.10.2</reflections.version>
         <spring-boot.version>2.6.1</spring-boot.version>
         <dubbo.starter.version>0.2.1.RELEASE</dubbo.starter.version>
-        <mybatis.starter.version>2.2.0</mybatis.starter.version>
+        <mybatis.starter.version>3.0.4</mybatis.starter.version>
         <zookeeper.version>3.4.14</zookeeper.version>
         <com.zk.client>0.1</com.zk.client>
         <curator-framework.version>5.1.0</curator-framework.version>
